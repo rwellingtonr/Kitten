@@ -41,7 +41,7 @@ export const kittens = [
   },
   {
     id: 9,
-    name: 'Ms. Dayana',
+    name: 'Ms. Daiana',
     prof: 'Aestheticist'
   },
   {
