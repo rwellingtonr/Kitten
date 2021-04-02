@@ -59,4 +59,4 @@ export const kittens = [
     name: 'Mr. Marcos',
     prof: 'Telemarketing'
   }
-];
+]
