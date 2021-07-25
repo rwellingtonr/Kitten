@@ -1,16 +1,20 @@
 body {
   margin: 0;
-  font-family: 'Courgette', cursive;
+  font-family: "Courgette", cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to left, #10042f,#3f096a);
+  background: linear-gradient(to left, #10042f, #3f096a);
+  overflow: hidden;
 }
 
-h1{
+h1 {
   color: #f0f0f0;
 }
 
-img{
+img {
   width: 300px;
   height: 300px;
+}
+::-webkit-scrollbar {
+  display: none;
 }
